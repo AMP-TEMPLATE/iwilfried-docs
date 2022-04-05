@@ -1,3 +1,43 @@
+
+# Quick start
+
+### Flutter Help:
+
+```bash
+$ flutter -h
+```
+Zeigt dir alle Befehle mit Beschreibung im Terminal an. 
+
+### Flutter Version:
+
+```bash
+$ flutter --version
+```
+Zeigt deine installierte Flutter version an.  
+
+### Flutter Channel:
+
+```bash
+$ flutter channel
+```  
+
+Zeigt dir in welchem Channel(Branch) du dich befindest - Standart ist channel stable.  
+Wenn du neue Funktionen ausprobieren möchtest, kannst du auch in den Beta channel wechseln.  
+
+### Flutter Doctor:  
+
+```bash
+$ flutter channel
+```  
+
+
+
+
+
+
+
+
+
 # Quick start
 
 It is recommended to install `docsify-cli` globally, which helps initializing and previewing the website locally.
