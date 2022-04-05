@@ -25,7 +25,11 @@ Zeigt, in welchem Channel(Branch) du dich befindest - Standart ist channel stabl
 Wenn du neue Funktionen ausprobieren möchtest, kannst du auch in den Beta channel wechseln.  
 
 ### Flutter Doctor:  
-`Gibt Informationen aus, wie es um deine Entwicklungsumgebung steht.`    
+
+<div style="font-size:20px">
+ Gibt Informationen aus, wie es um deine Entwicklungsumgebung steht. 
+ </div>
+ 
 
 ```bash
 $ flutter doctor
