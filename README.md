@@ -30,7 +30,7 @@ Wenn du neue Funktionen ausprobieren möchtest, kannst du auch in den Beta chann
 $ flutter doctor
 ```  
 
-###### Gibt Informationen aus, wie es um deine Entwicklungsumgebung steht.
+<font size=1> Gibt Informationen aus, wie es um deine Entwicklungsumgebung steht.</font>
 
 
 
