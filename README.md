@@ -6,14 +6,14 @@
 ```bash
 $ flutter -h
 ```
-Zeigt dir alle Befehle mit Beschreibung im Terminal an. 
+Zeigt, alle Befehle mit Beschreibung im Terminal an. 
 
 ### Flutter Version:
 
 ```bash
 $ flutter --version
 ```
-Zeigt deine installierte Flutter version an.  
+Zeigt, installierte Flutter Version an.  
 
 ### Flutter Channel:
 
@@ -21,14 +21,16 @@ Zeigt deine installierte Flutter version an.
 $ flutter channel
 ```  
 
-Zeigt dir in welchem Channel(Branch) du dich befindest - Standart ist channel stable.  
+Zeigt, in welchem Channel(Branch) du dich befindest - Standart ist channel stable.  
 Wenn du neue Funktionen ausprobieren möchtest, kannst du auch in den Beta channel wechseln.  
 
 ### Flutter Doctor:  
 
 ```bash
-$ flutter channel
+$ flutter doctor
 ```  
+
+#### Gibt Informationen aus, wie es um deine Entwicklungsumgebung steht.
 
 
 
